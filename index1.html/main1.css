@@ -1,0 +1,70 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+
+
+  }
+  html {
+    font-family: "Karla", sans-serif;
+    font-size: 16px;
+  }
+  .joc {
+      background-color: snow;
+      margin-top: 20px;
+      margin-left: 15px;
+      height: 33.33vh;
+    }
+    .joc h1{
+        color:hsl(179, 62%, 43%);
+        margin-bottom: 10px;
+    }
+    .joc h2{
+        color: hsla(71, 73%, 54%, 0.856);
+        margin-bottom: 10px;
+
+    }
+    .joc p{
+        color:#ccc;
+    }
+    .ms{
+        background-color: hsl(179, 62%, 43%);
+        height: 33.33vh;    
+        padding: 10px 10px;
+    
+    }
+    .ms h2{
+        color: hsla(203, 44%, 93%, 0.849);
+        margin-left: 15px;
+        margin-top: 20px;
+        margin-bottom: 10px;
+        }
+    .ms p{
+        color:#ccc;
+        margin-left: 15px;
+        margin-bottom: 10px;
+
+    }
+    .ms button{
+        background: hsl(71, 73%, 54%);
+        margin-left: 15px;
+        height: 30px;
+        width: 50%;
+        margin-bottom: 10px;
+    }
+    .why{
+        background-color: rgba(27, 183, 189, 0.616);
+        margin-bottom: 10px;
+        height: 33.33vh;
+        padding: 10px 10px;
+    }
+    .why h2{
+        margin-left: 15px;
+        margin-bottom: 10px;
+        color: hsla(203, 44%, 93%, 0.849);
+
+    }
+    .why p{
+        margin-left: 15px;
+        color:hsla(203, 44%, 93%, 0.822);   
+    }    
+     
